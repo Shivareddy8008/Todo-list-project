@@ -28,9 +28,10 @@ ul li::before and ul li.checked::before: styles for the checkbox icons
 HTML5
 CSS3
 JavaScript
-Installation
+
+<h3>Installation</h3>
 To run the application, simply clone the repository and open the index.html file in a web browser.
 
 
-Contributing
+<h3>Contributing</h3>
 Contributions are welcome! Please submit a pull request with your changes and a brief description of what you've added or fixed
