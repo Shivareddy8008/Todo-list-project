@@ -15,7 +15,7 @@ The application features a clean and modern design with a linear gradient backgr
 
 
 
-<h3>code Structure</h3>
+<h3>Code Structure</h3>
 The CSS code is organized into the following sections:
 
 .todos: styles for the todo list container
@@ -26,7 +26,9 @@ input, button, and ul li: styles for the form elements and todo list items
 ul li::before and ul li.checked::before: styles for the checkbox icons
 <h3>Technologies Used</h3>
 HTML5
+<br>
 CSS3
+<br>
 JavaScript
 
 <h3>Installation</h3>
